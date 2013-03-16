@@ -3,6 +3,9 @@ GEM
   specs:
     diff-lcs (1.2.1)
     fnv (0.2.0)
+    hamster (0.4.3)
+    hamsterdam (1.0.5)
+      hamster
     json (1.7.7)
     lexical_uuid (0.2.1)
       fnv
@@ -20,6 +23,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  hamsterdam
   json
   lexical_uuid
   rantly
