@@ -5,3 +5,4 @@ gem 'json'
 
 gem 'rspec'
 gem 'lexical_uuid'
+gem 'hamsterdam'
