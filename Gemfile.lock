@@ -6,7 +6,7 @@ GEM
     hamster (0.4.3)
     hamsterdam (1.0.5)
       hamster
-    json (1.7.7)
+    json (2.3.0)
     lexical_uuid (0.2.1)
       fnv
     rantly (0.3.1)
